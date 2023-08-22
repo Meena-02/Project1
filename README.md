@@ -11,4 +11,4 @@ MotorControl is an object file that is included in MyLiteKit. This file is used 
 CommControl is an object file that is included in MyLiteKit. This file is used for checking if instruction is recieved from remote control and passes the instruction to MyLiteKit.
 
 ## Video
-https://youtu.be/rVDWrm5o1eg 
+[https://youtu.be/rVDWrm5o1eg ](https://youtu.be/rVDWrm5o1eg)https://youtu.be/rVDWrm5o1eg
